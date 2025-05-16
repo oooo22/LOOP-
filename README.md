@@ -64,7 +64,7 @@
 </head>
 <body>
   <h2>LOOP 🎧</h2>
-  <p>กดค้างเพื่อพูด</p>
+  <p>กดค้างเพื่อพูด </p>
   <div class="button-group">
     <button id="startBtn">🎤 START</button>
     <button id="stopBtn">🛑 STOP</button>
